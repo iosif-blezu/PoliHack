@@ -599,7 +599,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #3ac162;
+  background: #BE98E2;
   color: #fff;
 }
 
@@ -1288,7 +1288,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #ecf9f0;
+  background: #BE98E2;
   display: flex;
   justify-content: center;
   align-items: center;
